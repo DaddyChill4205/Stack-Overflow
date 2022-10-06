@@ -1,0 +1,3 @@
+tendo
+pyautogui
+keyboard
